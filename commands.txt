@@ -1,0 +1,21 @@
+npm i or npm install[npm-node package manager]
+
+npm init (for getting the node environment-package.json)
+
+es module and cjs module
+
+node mostely uses cjs module(const http = require("http"))-module.export
+for vanced we use es module (import http from http)
+
+npm i nodemon
+
+npm run dev
+
+request - client to server
+response- server to client
+
+
+
+
+
+
